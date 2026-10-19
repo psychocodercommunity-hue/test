@@ -2,7 +2,7 @@
 
 ---
 
-## Segment 1 — Why the Name "Python"sdasd
+## Segment 1 — Why the Name "Python"
 
 Here is something that surprises most people.
 
