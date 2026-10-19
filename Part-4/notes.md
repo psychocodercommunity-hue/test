@@ -2,7 +2,7 @@
 
 ---
 
-## Segment 1 — Why the Name "Python" conflict
+## Sample conflict
 
 Here is something that surprises most people.
 
