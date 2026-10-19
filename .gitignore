@@ -1,0 +1,19 @@
+# Secrets — NEVER commit these
+.env
+*.key
+credentials.json
+
+# Dependencies (re-downloadable, huge, pointless to track)
+node_modules/
+venv/
+__pycache__/
+*.pyc
+
+# Build output
+dist/
+build/
+
+# OS / editor junk
+.DS_Store          # macOS
+Thumbs.db          # Windows
+.vscode/
