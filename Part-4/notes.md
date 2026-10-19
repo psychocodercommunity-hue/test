@@ -2,7 +2,7 @@
 
 ---
 
-## Sample conflict
+## Segment 1 — Why the Name "Python"
 
 Here is something that surprises most people.
 
